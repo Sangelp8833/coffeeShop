@@ -46,7 +46,7 @@
 .cover8{
     display: flex;
     height: 1000px;
-    background-image: url("/img/coffee_shop_8.jpg");
+    background-image: url("../img/coffee_shop_8.jpg");
     background-size: cover;
     background-position: center;
     align-items: center;
