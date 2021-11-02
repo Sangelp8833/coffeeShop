@@ -28,7 +28,7 @@
 .center{
     color: rgb(255, 255, 255);
     background-image: linear-gradient(rgba(0, 0, 0, 0.2), 
-    rgba(0, 0, 0, 0.2)), url("/img/coffee_shop_3.jpg");
+    rgba(0, 0, 0, 0.2)), url("../img/coffee_shop_3.jpg");
     background-size: cover;
     background-position: center;
     
@@ -37,7 +37,7 @@
 .right{
     color: rgb(255, 255, 255);
     background-image: linear-gradient(rgba(0, 0, 0, 0.2), 
-    rgba(0, 0, 0, 0.2)), url("/img/coffee_shop_2.jpg");
+    rgba(0, 0, 0, 0.2)), url("../img/coffee_shop_2.jpg");
     background-size: cover;
     background-position: center;
     
